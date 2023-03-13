@@ -1,0 +1,14 @@
+D:\ProjectSmart\LibrayPro\Library.Domain\bin\Debug\net7.0\Library.Domain.deps.json
+D:\ProjectSmart\LibrayPro\Library.Domain\bin\Debug\net7.0\Library.Domain.runtimeconfig.json
+D:\ProjectSmart\LibrayPro\Library.Domain\bin\Debug\net7.0\Library.Domain.dll
+D:\ProjectSmart\LibrayPro\Library.Domain\bin\Debug\net7.0\Library.Domain.pdb
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.csproj.AssemblyReference.cache
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.AssemblyInfoInputs.cache
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.AssemblyInfo.cs
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.csproj.CoreCompileInputs.cache
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.dll
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\refint\Library.Domain.dll
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.pdb
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\Library.Domain.genruntimeconfig.cache
+D:\ProjectSmart\LibrayPro\Library.Domain\obj\Debug\net7.0\ref\Library.Domain.dll

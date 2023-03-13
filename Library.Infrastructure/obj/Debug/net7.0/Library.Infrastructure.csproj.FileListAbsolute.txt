@@ -1,0 +1,17 @@
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.deps.json
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.dll
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.pdb
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Application.dll
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Domain.dll
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Application.pdb
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\bin\Debug\net7.0\Library.Domain.pdb
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.AssemblyReference.cache
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.AssemblyInfoInputs.cache
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.AssemblyInfo.cs
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.CopyComplete
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.dll
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\refint\Library.Infrastructure.dll
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.pdb
+D:\ProjectSmart\LibrayPro\Library.Infrastructure\obj\Debug\net7.0\ref\Library.Infrastructure.dll
