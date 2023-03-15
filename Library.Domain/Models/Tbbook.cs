@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Library.Domain.Models;
 
@@ -22,6 +23,6 @@ public partial class Tbbook
     public virtual Tbcategory Category { get; set; } = null!;
 
     public virtual ICollection<Tbprice> Tbprices { get; } = new List<Tbprice>();
-
+    [InverseProperty(nameof(Tbrent.Book))]
     public virtual ICollection<Tbrent> Tbrents { get; } = new List<Tbrent>();
 }

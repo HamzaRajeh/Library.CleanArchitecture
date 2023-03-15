@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Library.Domain.Models;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +11,8 @@ namespace Library.Application.DTO
     public class TBRentDTO
     {
         
-        public int Id { get; set; }
+
+        public int Id { get; private set; }
 
         public int? BookId { get; set; }
 
@@ -28,5 +31,7 @@ namespace Library.Application.DTO
         public DateTime? ReRentDate { get; set; }
 
         public DateTime? ReciveDate { get; set; }
+
+  
     }
 }

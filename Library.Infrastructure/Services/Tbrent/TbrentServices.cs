@@ -21,12 +21,24 @@ namespace Library.Infrastructure.Services.Tbrent
             var rent = new Domain.Models.Tbrent(){BookId=value.BookId,FullName=value.FullName ,PhoneNumber=value.PhoneNumber ,StatusId=1,PriodId=1, RentDate=DateTime.Now, ReRentDate = DateTime.Now.AddDays(value.ReRent), ReRent=value.ReRent } ;
             _context.Add(rent);
             _context.SaveChanges();
-            return await  GetRents();
+            return  true;
         }
 
-        public async Task<dynamic>  GetRents()
+        public   IEnumerable<dynamic>  GetRents()
         {
-            return await _context.Tbrents.ToArrayAsync();
+            try
+            {
+                var rents =     _context.Tbrents.Select(a=>new { a.Id, a.RentDate, a.ReRentDate,a.ReRent,a.ReciveDate, a.BookId,a.FullName,a.PhoneNumber,a.PriodId,a.StatusId,BookName= a.Book.BookDiscriptsion, PriodName=a.Priod.PriodDescription,StatuName=a.Status.StatusDescription }    )
+                .ToList();
+                return rents;
+            }
+            catch (Exception ex)
+            {
+
+                 return null;
+            }
+           
+          
         }
 
         public async Task<dynamic> ReRent(int id)

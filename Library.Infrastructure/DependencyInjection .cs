@@ -17,6 +17,7 @@ namespace Library.Infrastructure
             services.AddSqlServer<DblibraryContext>(Configuration.GetConnectionString("ConnectionStrings"));
             services.AddTransient<ITbbookServices, TbbookServices>();
             services.AddTransient<ITbrentServices, TbrentServices>();
+
             return services;
         }
     }

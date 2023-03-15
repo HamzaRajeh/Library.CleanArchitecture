@@ -16,7 +16,7 @@ namespace Library.WebUI.Controllers
             _ITbrentServices = ITbrentServices;
         }
         [HttpGet]
-        public Task<dynamic> Getall()
+        public IEnumerable<dynamic> Getall()
         {
             return _ITbrentServices.GetRents();
         }

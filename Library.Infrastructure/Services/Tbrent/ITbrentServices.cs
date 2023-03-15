@@ -9,7 +9,7 @@ namespace Library.Infrastructure.Services.Tbrent
 {
     public interface ITbrentServices
     {
-        Task<dynamic> GetRents();
+        IEnumerable<dynamic> GetRents();
         Task<dynamic> BookRent(dynamic value);
         Task<dynamic> ReRent(int id);
  
